@@ -1,4 +1,4 @@
-# Collect tweets by words / phrases
+# Collect tweets by words
 import os
 import tweepy as tw
 import pandas as pd
